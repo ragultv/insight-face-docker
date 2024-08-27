@@ -1,0 +1,4 @@
+flask
+insightface
+opencv-python-headless
+onnxruntime
